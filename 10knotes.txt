@@ -1,0 +1,6 @@
+The goal of this project is to create a way to be able to update the Cronies site with minimal amount of effort.
+
+I started by downloading the updated theme and installing it in the themes directory.
+
+Make a child theme to contain all the changes.
+

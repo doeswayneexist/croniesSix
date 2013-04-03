@@ -1,0 +1,468 @@
+/*
+Theme Name: CroniesSix
+Theme URI: -
+Description: Child of Delicieux Wordpress Theme
+Version: 1.00
+Author: 10kProject
+Author URI: http://10kproject.org
+Template: delicieux-v1-06
+License:
+License URI:
+*/
+
+
+/*Both ways work*/
+/*@import url("../delicieux-v1-06/style.css");*/
+@import "../delicieux-v1-06/style.css";
+
+/*Restyling the base theme from top to bottom.*/
+
+/*Changes the top navigation color*/
+.top-navigation-wrapper{ background-color: #f03939; } 
+
+/*Sub Nav Styling*/
+ul.sf-menu li li {
+font-family: Oswald;
+font-size: 20px;
+}
+
+/*Main Background color
+body {
+background-color: #FFFFCC;
+}*/
+
+/**Enlarge the social icons*/
+.social-icon-wrapper img {
+height: 46px;	
+width: 46px;
+}
+
+/*Styling the main logo top position*/
+div.logo-wrapper .logo-inner a {
+	top: 5px;
+}
+/*Positioning the main logo*/
+div.logo-wrapper img {
+top: -5px;
+}
+
+/* Styling the menu drop down in responsive mode*/
+div.responsive-menu-container select {
+height: 55px;
+font-size: 18px;
+border-radius: 5px;
+}
+
+/*Creating the header background*/
+div.logo-wrapper {
+background:center top no-repeat url(http://10kproject.org/cronies/wp-content/uploads/2012/11/Header-BG-Plus.png);
+}
+
+/*Stlying the header border*/
+div.top-navigation-wrapper {
+border-bottom: solid black 2px;
+}
+
+/*Bolding the navigation*/
+div.navigation-wrapper {
+font-weight: bold;
+}
+
+/*Making headers bold*/
+h1.gdl-header-title, h3.gdl-header-title {
+font-weight: bold;
+}
+
+/*RESPONSIVE*/
+@media only screen and (max-width: 767px) {
+
+div.logo-wrapper {
+background:none;
+}
+/*Positioning the main logo*/
+div.logo-wrapper img {
+width: 225px;
+top: 10px;
+}
+
+}
+
+
+div.gdl-navigation-wrapper {
+	margin-top: -20px;
+}
+
+/*Global Styling
+======================================*/
+.body-wrapper {
+	/*background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/shl.png);*/
+
+}
+
+/*Header Styling
+======================================*/
+
+/*Instagram Link Styling*/
+.instaLink {
+	font-size: 18px;
+}
+
+/*Removing Stunning Text Navigation*/
+.control-nav-wrapper {
+	display: none;
+}
+
+/*Navigation Styling*/
+.menu-wrapper ul li a {
+	font-size: 20px;
+}
+
+/*Stunning Text Caption */
+.stunning-text-caption{ 
+	font-size: 18px; 
+} 
+
+a.stunning-text-button {
+	font-weight: bold;
+	font-family: Oswald;
+	color: #ED1C24 !important;
+	font-size: 22px;
+padding-top: 6px;
+padding-bottom: 6px;
+}
+
+/*Stunning text left margin*/
+div.stunning-text-content.button-enable {
+	margin-left: 10px;
+}
+
+
+/*Home Page Styling
+======================================*/
+
+/*Stlying featured items*/
+.price-item {
+	box-shadow: 5px 5px 20px #888;
+	border-radius: 5px;
+}
+
+.price-item img {
+	margin-top: 16px;
+}
+
+/*Styling the stunning text box*/
+
+div.stunning-text-inner-wrapper {
+	padding: 16px 0px !important;
+}
+.stunning-text-title {
+	color: white;
+font-size: 42px;
+text-align: center;
+margin-bottom: 0px;
+}
+.stunning-text-title a {
+	color: white !important;
+}
+.stunning-text-title a:hover {
+	color: #FFCB08 !important;
+}
+
+/*Styling the stunning text box*/
+div.stunning-text-wrapper {
+	box-shadow: 0px 5px 10px;
+	margin-top: 0px;
+}
+/*hiding the stunning text image*/
+img.stunning-text-image {
+	display: none;
+}
+
+/*Styling the intro paragrph*/
+.introWrapper {
+	padding: 22px;
+background-color: white;
+border-radius: 5px;
+box-shadow: 5px 5px 20px #888;
+text-align: justify;
+}
+
+h1.introTitle {
+	font-size: 38px;
+	color: #063;
+	font-weight: bold;
+}
+.introCopy {
+	font-size: 18px;
+	color: rgb(78, 77, 77);
+}
+
+.price-table-wrapper {
+	margin-top: 60px;
+}
+/*Menu Page Styling
+======================================*/
+
+/*Styling the menu list*/
+h3.food-menu-selector-title {
+	border-bottom: none;
+	font-size: 32px;
+}
+
+h3.food-menu-list-title {
+	font-size: 42px;
+	border-bottom: none;
+}
+
+/*adding more focus to the selected menu item*/
+div.food-menu-selector ul li.active h4 {
+	padding-left: 6px;
+border-left: solid 5px #063;
+}
+/*formatting the menu download link*/
+.menuDownload {
+	margin-left: 10px;
+}
+
+/*Location Page Styling
+======================================*/
+
+.mapContainer {
+	border: 4px solid #063;
+	position: relative;
+}
+
+.mapLink {
+	position: absolute;
+	right: 0px;
+	background-color: #063;
+	border-bottom-left-radius: 8px;
+}
+
+.mapLink a {
+	color: white;
+	padding: 12px;
+	font-size: 18px;
+}
+
+.locationName, .featureName {
+	font-size: 52px;
+}
+
+.locationAddress {
+	font-size: 32px;
+	color: #063;
+	margin-top: -50px;
+	font-weight: bold;
+}
+
+.locationPhone {
+	font-size: 24px;
+font-weight: bold;
+margin-top: -11px;
+}
+
+h3.locationHours {
+	margin-top: 16px;
+	font-weight: bold;
+}
+
+.locationYelp {
+	font-size: 22px;
+	color: red;
+	font-weight: bold;
+	margin-top: -12px;
+}
+
+.yelpImage {
+	width: 73px;
+position: relative;
+top: 7px;
+}
+
+.locationHistory {
+	margin-top: 10px;
+}
+
+
+/* Styling the Features Page
+======================================*/
+
+.featureName {
+	/*background-color: white;*/
+	background-image: url(http://10kproject.org/cronies/wp-content/themes/delicieux_v1-01/images/pattern/pattern-1.png);
+	padding-left: 10px;
+	color: black;
+	border-left: solid #006633 5px;
+	line-height: 72px;
+}
+
+.featuresDesc {
+	font-size: 18px;
+}
+
+.featuresDesc + .featuresDesc {
+	margin-top: 18px;
+}
+
+
+
+
+/*Stlying the Promos Page
+=======================================*/
+.promoName {
+	text-transform: uppercase;
+	font-size: 52px;
+}
+.promoDays {
+	font-size: 36px;
+	color: #063;
+	font-weight: bold;
+	margin-top: -52px;
+}
+
+.promoDeal {
+	font-size: 18px;
+	/*font-weight: bold;*/
+}
+
+/*Gets rid of the borders on all the header elements*/
+h1.gdl-header-title, h3.gdl-header-title {
+	border: none;
+}
+
+/*Extends the width of the hours box*/
+div.custom-sidebar ul.opening-hours-list li span.head {
+	width: 140px;
+}
+
+
+/*Styling the Footer
+============================================*/
+
+.footer-wrapper h3.custom-sidebar-title {
+	font-size: 26px;
+}
+
+.footerPhil {
+	font-size: 18px;
+	color: #FFDBDB;
+}
+
+.footerSocial {
+	width: 65px;
+	margin-right: 15px;
+}
+
+.copyright-right a {
+	font-weight: bold;
+	color: white;
+}
+
+/*Social Media Boxes*/
+
+.faceBox {
+	border-radius: 5px;
+	background-color: #335F9C;
+	padding: 10px;
+	position: relative;
+	box-shadow: 5px 5px 20px #888;
+	margin-bottom: 20px;
+}
+
+.yelpBox {
+	border-radius: 5px;
+	background-color: #C81200;
+	padding: 10px;
+	position: relative;
+	box-shadow: 5px 5px 20px #888;
+	margin-bottom: 20px;
+}
+
+.faceBox p, .yelpBox p {
+	color: white;
+	margin-bottom: 0px;
+	font-size: 16px;
+}
+
+.faceBox p + p {
+	color: white;
+	font-size: 28px;
+	position: relative;
+	top: -15px;
+}
+
+.likeBox {
+	display: inline-block;
+padding: 3px;
+border-radius: 3px;
+background-color: #EBF3F9;
+}
+
+.faceBox img {
+	position: absolute;
+right: 16px;
+bottom: 0px;
+width: 60px;
+}
+
+.yelpBox img {
+	position: relative;
+bottom: 0px;
+width: 140px;
+}
+
+.yelpLoc {
+	position: absolute;
+right: 14px;
+top: 9px;
+}
+
+.yelpLoc p {
+	text-align: right;
+/*background-color: #FFF9E5;
+border-radius: 3px;
+margin-bottom: 3px;*/
+}
+
+.yelpLoc p a {
+	color: white;
+}
+
+.yelpLoc p a:hover {
+	color: black;
+padding-right: 6px;
+font-weight: bold;
+}
+
+
+/*home page > featured food: styling the headers in an h group*/
+
+.dualHeaders h2 {
+	text-transform: uppercase;
+	font-size: 38px;
+}
+
+.dualHeaders h3 {
+	font-size: 24px;
+	color: #063;
+	position: relative;
+	top: -12px;
+}
+
+/*home page > featured food: styling the read more boxes*/
+div.food-item .blog-continue-reading {
+	width: 85%;
+	text-align: center;
+}
+
+
+/*Editing the page from top to bottom*/
+
+/*Navigation Bar Typography*/
+ul.sf-menu li a {
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+
