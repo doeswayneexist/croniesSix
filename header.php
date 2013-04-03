@@ -289,7 +289,7 @@
 
 					echo home_url();
 
-					echo '"><img src="' . $logo_attachment . '" alt="' . $alt_text . '"/></a>';				
+					echo '"><img src="http://cronies.com/wp-content/uploads/2013/01/cronies-logo-registered-small.png" alt="Cronies Sports Grill"></a></a>';				
 
 				}
 
