@@ -1,0 +1,197 @@
+/*My own custom styling.*/
+
+/*Changing everything to Cronies Green*/
+.top-navigation-wrapper {
+	background-color: #006633;
+}
+
+div.footer-wrapper {
+background-color: #006633;
+}
+
+div.footer-wrapper *{ border-color: #000000; } 
+
+.top-navigation-wrapper{ background-color: #006633; } 
+.top-navigation-wrapper-gimmick{ background-color: #535353; } 
+.top-navigation-wrapper{ color: #ffffff; } 
+.top-navigation-wrapper a{ color: #d9d9d9; } 
+.top-navigation-wrapper a:hover{ color: #d9d9d9; } 
+.header-wrapper, .gdl-navigation-wrapper{ background-color: #ffffff; } 
+.gdl-navigation-wrapper *{ border-color: #5f5f5f; } 
+.navigation-wrapper-background{ background-color: #ffffff; } 
+.sf-menu li a{ color: #323232; } 
+.sf-menu li a:hover{ color: #3d3d3d; } 
+.sf-menu li.current-menu-ancestor a, .sf-menu li.current-menu-item a{ color: #3d3d3d; } 
+.sf-menu li li{ background-color: #1f1f1f; } 
+.sf-menu ul, .sf-menu ul li{ border-color: #333333; } 
+.sf-menu li li a, .sf-menu li.current-menu-item li a, .sf-menu li.current-menu-ancestor li a, .sf-menu li li.current-menu-item li a, .sf-menu li li.current-menu-ancestor li a{ color: #b3b3b3; } 
+.sf-menu li li a:hover, .sf-menu li li.current-menu-item li a:hover, .sf-menu li li.current-menu-ancestor li a:hover{ color: #ffffff; } 
+.sf-menu li li.current-menu-item a, .sf-menu li li.current-menu-ancestor a, .sf-menu li li.current-menu-ancestor li.current-menu-item a{ color: #ffffff; } 
+h1.page-header-title{ color: #ffffff; } 
+.page-header-caption{ color: #dddddd; } 
+.page-header-outer-wrapper{ border-color: #000000; } 
+h1, h2, h3, h4, h5, h6{ color: #000000; } 
+body h1, body h2, body h3, body h4, body h5, body h6{ border-color: #000000; } 
+body{ color: #808080; } 
+.body-wrapper, .gdl-top-slider .flexslider .control-nav-wrapper, .gdl-top-slider .nivo-nav-wrapper{ background-color: #ffffff; } 
+a{ color: #006633; } 
+a:hover{ color: #2e9963; } 
+::selection, ::-moz-selection{ color: #ffffff; } 
+::selection, ::-moz-selection{ background-color: #006633; } 
+.custom-sidebar-title, .custom-sidebar-title a{ color: #ffffff; } 
+.custom-sidebar-title{ background-color: #006633; } 
+.custom-sidebar-title{ border-color: #403e3c; } 
+.sidebar-wrapper .recent-post-widget-info, .sidebar-wrapper #twitter_update_list{ color: #b5b5b5; } 
+.recent-food-widget-title a, .food-widget-info h4{ color: #3a3a3a; } 
+div.custom-sidebar ul.opening-hours-list li span.head{ color: #006633; } 
+div.twitter-bar-wrapper{ color: #949494; } 
+div.twitter-bar-wrapper a{ color: #dedede; } 
+div.twitter-bar-wrapper{ background-color: #403e3c; } 
+.footer-wrapper a{ color: #2f120e; } 
+.footer-wrapper a:hover{ color: #fdf6f7; } 
+.footer-wrapper .custom-sidebar-title, .footer-wrapper .custom-sidebar-title a{ color: #ffffff; } 
+.footer-wrapper, .footer-wrapper table th{ color: #ffffff; } 
+.footer-wrapper .recent-post-widget-info, .footer-wrapper #twitter_update_list{ color: #b1b1b1; } 
+div.footer-wrapper{ background-color: #006633; } 
+div.footer-wrapper *{ border-color: #006633; } 
+div.footer-wrapper div.contact-form-wrapper input[type="text"], div.footer-wrapper div.contact-form-wrapper input[type="password"], div.footer-wrapper div.contact-form-wrapper textarea, div.footer-wrapper div.custom-sidebar #search-text input[type="text"]{ color: #5e5e5e; } 
+div.footer-wrapper div.contact-form-wrapper input[type="text"], div.footer-wrapper div.contact-form-wrapper input[type="password"], div.footer-wrapper div.contact-form-wrapper textarea, div.footer-wrapper div.custom-sidebar #search-text input[type="text"]{ background-color: #ffffff; } 
+div.footer-wrapper div.contact-form-wrapper input[type="text"], div.footer-wrapper div.contact-form-wrapper input[type="password"], div.footer-wrapper div.contact-form-wrapper textarea, div.footer-wrapper div.custom-sidebar #search-text input[type="text"]{ border-color: #ffffff; } 
+.footer-wrapper .contact-form-wrapper button{ color: #ffffff; } 
+.footer-wrapper .contact-form-wrapper button{ background-color: #1f1f1f; } 
+div.footer-wrapper .personnal-widget-item .personnal-widget-info{ color: #ffffff; } 
+div.footer-wrapper .tagcloud a{ background-color: #ffffff; } 
+div.copyright-wrapper{ color: #919191; } 
+div.copyright-outer-wrapper{ background-color: #403e3c; } 
+body div.copyright-outer-wrapper{ border-color: #242424; } 
+body div.copyright-wrapper{ border-color: #666666; } 
+h2.gdl-slider-title{ color: #ffffff; } 
+div.gdl-slider-caption{ color: #ffffff; } 
+div.nivo-caption, div.flex-caption, div.anything-caption{ background: #000000; } 
+.flex-carousel.carousel-included{ background-color: #000000; } 
+div.anythingSlider .anythingControls ul a, .flex-control-nav li a, .nivo-controlNav a{ background: #dbdbdb; } 
+div.anythingSlider .anythingControls ul a.cur, div.anythingSlider .anythingControls ul a:hover .flex-control-nav li a:hover, .flex-control-nav li a.flex-active, .nivo-controlNav a.active{ background: #006633; } 
+.gdl-top-slider{ background-color: #2b2b2b; } 
+h1.stunning-text-title{ color: #ffffff; } 
+.stunning-text-caption{ color: #ffdbdb; } 
+.stunning-text-wrapper{ background-color: #006633; } 
+a.stunning-text-button, a.stunning-text-button:hover{ color: #786d14; } 
+a.stunning-text-button{ background-color: #ffc908; } 
+.portfolio-title, .portfolio-title a{ color: #252525; } 
+.portfolio-title a:hover{ color: #006633; } 
+div.single-portfolio .port-info{ color: #7a7a7a; } 
+div.single-portfolio .port-info .head{ color: #404040; } 
+span.portfolio-thumbnail-image-hover{ border-color: #006633; } 
+h2.blog-title a, h1.blog-title a{ color: #484848; } 
+h2.blog-title a:hover, h1.blog-title a:hover{ color: #484848; } 
+.about-author-wrapper{ background-color: #f5f5f5; } 
+div.gdl-pagination a{ background-color: #f0f0f0; } 
+div.gdl-pagination a{ color: #8c8c8c; } 
+div.gdl-pagination a:hover{ background-color: #dedede; } 
+div.gdl-pagination a:hover{ color: #ffffff; } 
+div.gdl-pagination span{ background-color: #dedede; } 
+div.gdl-pagination span{ color: #ffffff; } 
+.food-title, .food-title a{ color: #000000; } 
+.food-title, .food-title a:hover{ color: #000000; } 
+div.food-item .food-price, div.food-widget-item .food-price, div.recent-food-widget .food-price{ color: #ffffff; } 
+div.food-item .food-price, div.food-widget-item .food-price, div.recent-food-widget .food-price{ background-color: #006633; } 
+div.food-menu-selector ul li h4{ color: #a7a7a7; } 
+div.food-menu-selector ul li.active h4{ color: #464646; } 
+div.food-menu-list .food-list-title a{ color: #555555; } 
+body .food-price{ color: #262626; } 
+body .food-price{ border-color: #262626; } 
+div.price-item, div.price-item .price-title, div.price-item .price-button{ background-color: #006633; } 
+div.price-item .price-title, div.price-item .price-button{ color: #ffffff; } 
+div.price-item .price-title{ border-color: #000000; } 
+div.price-item .price-tag{ color: #353535; } 
+div.price-item{ color: #868686; } 
+div.price-item .price-tag{ border-color: #e0e0e0; } 
+div.price-item{ background-color: #f5f5f5; } 
+div.personnal-item{ background-color: #f5f5f5; } 
+div.personnal-item .personnal-position{ color: #ffffff; } 
+div.personnal-item .personnal-position{ background-color: #006633; } 
+div.personnal-item .personnal-title{ color: #404040; } 
+div.personnal-item .personnal-content{ color: #373737; } 
+div.personnal-widget-item .personnal-widget-info{ color: #4a4a4a; } 
+div.personnal-widget-item .personnal-widget-content{ color: #bcbcbc; } 
+ul.gdl-accordion li .accordion-content, ul.gdl-toggle-box li .toggle-box-content{ color: #a4a4a4; } 
+ul.gdl-accordion li .accordion-title, ul.gdl-toggle-box li .toggle-box-title{ color: #595959; } 
+ul.gdl-accordion li, ul.gdl-toggle-box li{ background-color: #f5f5f5; } 
+blockquote{ color: #cccccc; } 
+body blockquote{ border-color: #ebebeb; } 
+a.gdl-button, body button, input[type="submit"], input[type="reset"], input[type="button"]{ background-color: #006633; } 
+a.gdl-button, body button, input[type="submit"], input[type="reset"], input[type="button"]{ color: #ffffff; } 
+div.style-1 h2.column-service-title{ color: #3b3b3b; } 
+div.style-1 div.column-service-caption{ color: #006633; } 
+div.style-2 h2.column-service-title{ color: #3b3b3b; } 
+div.style-2 div.column-service-caption{ color: #868686; } 
+body *{ border-color: #dcdcdc; } 
+.scroll-top{ color: #919191; } 
+div.feedback-wrapper a{ color: #ffffff; } 
+div.feedback-wrapper a{ background-color: #414141; } 
+table, table tr, table tr td, table tr th{ border-color: #e5e5e5; } 
+table th{ color: #666666; } 
+table th{ background-color: #fdfdfd; } 
+div.gdl-tab ul.gdl-tab-content, div.gdl-tab ul.gdl-tab-title a.active{ background-color: #f5f5f5; } 
+div.gdl-tab ul.gdl-tab-content{ color: #969696; } 
+div.gdl-tab ul.gdl-tab-title a{ color: #a2a2a2; } 
+div.gdl-tab ul.gdl-tab-title a{ background-color: #ffffff; } 
+div.gdl-tab ul.gdl-tab-title a.active{ color: #656565; } 
+div.gdl-carousel-testimonial .testimonial-content{ color: #c9c9c9; } 
+div.gdl-carousel-testimonial .testimonial-info{ color: #949494; } 
+div.gdl-carousel-testimonial{ background-color: #f5f5f5; } 
+div.gdl-static-testimonial .testimonial-item{ color: #bdbdbd; } 
+div.gdl-static-testimonial .testimonial-item{ border-color: #ebebeb; } 
+div.gdl-static-testimonial .testimonial-info{ color: #999999; } 
+.custom-sidebar-title, .top-navigation-wrapper, .footer-wrapper, .stunning-text-wrapper, .twitter-bar-wrapper, .gdl-button, button, input[type="submit"], input[type="reset"], input[type="button"], .copyright-wrapper{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/pattern/pattern-1.png); } 
+.logo-wrapper .logo-inner{ top: -43px; } 
+.logo-wrapper{ height: 152px; } 
+div.logo-right-text{ top: 40px; } 
+.navigation-wrapper-background{ opacity: 0.85; filter: alpha(opacity=85); }
+div.navigation-wrapper{ font-size: 14px; } 
+h1.gdl-header-title, h3.gdl-header-title{ font-size: 26px; } 
+body, ul.gdl-toggle-box li .toggle-box-title, ul.gdl-accordion li .accordion-title{ font-size: 13px; } 
+h3.custom-sidebar-title{ font-size: 13px; } 
+h1{ font-size: 30px; } 
+h2{ font-size: 25px; } 
+h3{ font-size: 21px; } 
+h4{ font-size: 18px; } 
+h5{ font-size: 16px; } 
+h6{ font-size: 15px; } 
+body{ font-family: Oswald; } 
+h1, h2, h3, h4, h5, h6{ font-family: Oswald; } 
+.gdl-slider-title{ font-family: Oswald; } 
+h1.stunning-text-title{ font-family: Oswald; } 
+div.navigation-wrapper{ font-family: Oswald; } 
+.portfolio-title a{ border-color: #252525; } 
+.portfolio-title a:hover{ border-color: #006633; } 
+ul.gdl-accordion li.active .accordion-title, ul.gdl-toggle-box li.active .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/accordion-title-active.png); } 
+ul.gdl-accordion li .accordion-title, ul.gdl-toggle-box li .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/accordion-title.png); } 
+div.gdl-carousel-testimonial .testimonial-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-quote.png); } 
+div.testimonial-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-left.png); } 
+div.testimonial-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-right.png); } 
+.port-nav a{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/port-nav.png) no-repeat; } 
+.port-nav-wrapper .port-nav{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/port-nav.png) no-repeat; } 
+div.personnal-widget-prev, div.food-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnal-widget-left.png); } 
+div.personnal-widget-next, div.food-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnal-widget-right.png); } 
+div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/search-button.png) no-repeat center; } 
+div.food-carousel-wrapper .food-nav{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/food-nav.png); } 
+div.custom-sidebar ul.opening-hours-list li span.time{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/opening-hours-time.png); } 
+div.custom-sidebar ul.opening-hours-list li span.close{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/opening-hours-close.png); } 
+div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/li-arrow.png) no-repeat 0px 14px; } 
+div.personnal-widget-item .personnal-widget-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnel-quote.png); } 
+div.blog-author{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/author.png) no-repeat 0px 1px; } 
+div.blog-date-wrapper, div.recent-post-widget-date{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/date.png) no-repeat 0px 1px; } 
+div.blog-comment, div.recent-post-widget-comment{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/comment.png) no-repeat 0px 3px; } 
+div.blog-tag{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/tag.png) no-repeat 0px 2px; } 
+div.gdl-twitter-wrapper{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/twitter-bottom-head.png) 0 center no-repeat; } 
+div.gdl-twitter-navigation .prev, div.gdl-twitter-navigation .next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/twitter-bottom-nav.png); } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/li-arrow.png) no-repeat 0px 14px; } 
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/search-button.png) no-repeat center; } 
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/personnal-widget-left.png); } 
+div.footer-wrapper div.personnal-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/personnal-widget-right.png); } 
+.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/carousel-nav-left.png) no-repeat; } 
+.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/carousel-nav-right.png) no-repeat; } 
+div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.sidebar-wrapper #search-text input[type="text"], div.sidebar-wrapper .contact-widget input, div.custom-sidebar .contact-widget textarea, div.comment-wrapper input[type="text"], div.comment-wrapper input[type="password"], div.comment-wrapper textarea{ color: #888888; background-color: #ffffff; border-color: #e0e0e0; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f5f5f5 -5px -5px 0px 0px, #f5f5f5 5px 5px 0px 0px, #f5f5f5 5px 0px 0px 0px, #f5f5f5 0px 5px 0px 0px, #f5f5f5 5px -5px 0px 0px, #f5f5f5 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f5f5f5 -5px -5px 0px 0px, #f5f5f5 5px 5px 0px 0px, #f5f5f5 5px 0px 0px 0px, #f5f5f5 0px 5px 0px 0px, #f5f5f5 5px -5px 0px 0px, #f5f5f5 -5px 5px 0px 0px ; } 
+.blog-media-wrapper, .portfolio-media-wrapper, .food-media-wrapper, .gdl-button, .gdl-gallery-image,button, input[type="submit"], input[type="reset"], input[type="button"]{ -moz-box-shadow: 0px 0px 6px #bbbbbb; -webkit-box-shadow: 0px 0px 6px #bbbbbb; box-shadow: 0px 0px 6px #bbbbbb; } 
+div.gdl-navigation-wrapper{ background: url("images/default-header-bg.jpg") center 0 no-repeat; } 
