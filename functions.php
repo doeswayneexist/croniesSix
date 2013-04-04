@@ -15,5 +15,12 @@ function add_10k_font_oswald() {
 }
 add_action( 'wp_head', 'add_10k_font_oswald' ); 
 
+// Hooking in hard coded custom fonts
+function add_10k_favicon() {
 
+    $favicon_URL = get_stylesheet_directory_uri(). '/favicon.ico';
+    echo '<link rel="shortcut icon" href="'.$favicon_URL.'" type="image/x-icon" />' . "\n";
+}
+add_action( 'wp_head', 'add_10k_favicon' ); 
 ?>
+
