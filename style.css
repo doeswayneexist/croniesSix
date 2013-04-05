@@ -466,3 +466,35 @@ ul.sf-menu li a {
 }
 
 
+/*Styles for build_social_bar()*/
+.socialBar {
+
+}
+
+.socialBar img {
+	margin-left: 8px;
+	border: solid black 2px !important;
+}
+
+.socialBar a {
+	display: inline-block;
+	-webkit-transition: all .5s ;
+-moz-transition: all .5s ;
+-ms-transition: all .5s ;
+-o-transition: all .5s ;
+transition: all .5s ;
+}
+
+.socialBar a:hover {
+	position: relative;
+	right: 4px;
+	-webkit-transition: all .25s ;
+-moz-transition: all .25s ;
+-ms-transition: all .25s ;
+-o-transition: all .25s ;
+transition: all .25s ;
+}
+
+
+
+
