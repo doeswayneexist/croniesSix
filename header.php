@@ -159,7 +159,7 @@
 
 								<!-- <img src="http://placehold.it/150x150"> -->
 
-								<?php build_social_bar() ?>
+								<?php build_social_bar(); ?>
 
 
 								<?php

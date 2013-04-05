@@ -49,10 +49,3 @@ function build_social_bar() {
 	</div>";
 }
 ?>
-
-
-
-
-
-
-
