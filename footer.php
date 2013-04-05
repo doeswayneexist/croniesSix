@@ -138,9 +138,13 @@
 
 	?>	
 
+<!-- Two footer wrappers? -->
+
 	<div class="footer-wrapper">
 
 		<div class="footer-inner-wrapper">
+
+
 
 		<!-- Get Footer Widget -->
 
@@ -197,6 +201,8 @@
 				</div>
 
 			</div> 
+
+			<?php build_social_bar(); ?>
 
 		</div><!-- footer innerwrapper -->
 
