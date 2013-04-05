@@ -157,7 +157,10 @@
 
 								<!-- 10k Add my own social media stuff here -->
 
-								<img src="http://placehold.it/150x150">
+								<!-- <img src="http://placehold.it/150x150"> -->
+
+								<?php build_social_bar() ?>
+
 
 								<?php
 
