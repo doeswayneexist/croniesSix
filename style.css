@@ -473,7 +473,8 @@ ul.sf-menu li a {
 
 .socialBar img {
 	margin-left: 8px;
-	border: solid black 2px !important;
+	border: solid black 1px !important;
+	border-radius: 10px;
 }
 
 .socialBar a {
