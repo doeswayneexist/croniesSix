@@ -107,8 +107,6 @@
 
 	?>
 
-	<link rel="stylesheet" type="text/css" href="/style-custom.css" class="10k">
-
 </head>
 
 <body <?php echo body_class(); ?>>
