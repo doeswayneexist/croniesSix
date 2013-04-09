@@ -143,7 +143,7 @@ div.gdl-carousel-testimonial{ background-color: #f5f5f5; }
 div.gdl-static-testimonial .testimonial-item{ color: #bdbdbd; } 
 div.gdl-static-testimonial .testimonial-item{ border-color: #ebebeb; } 
 div.gdl-static-testimonial .testimonial-info{ color: #999999; } 
-.custom-sidebar-title, .top-navigation-wrapper, .footer-wrapper, .stunning-text-wrapper, .twitter-bar-wrapper, .gdl-button, button, input[type="submit"], input[type="reset"], input[type="button"], .copyright-wrapper{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/pattern/pattern-1.png); } 
+.custom-sidebar-title, .top-navigation-wrapper, .footer-wrapper, .stunning-text-wrapper, .twitter-bar-wrapper, .gdl-button, button, input[type="submit"], input[type="reset"], input[type="button"], .copyright-wrapper{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/pattern/pattern-1.png); } 
 .logo-wrapper .logo-inner{ top: -43px; } 
 .logo-wrapper{ height: 152px; } 
 div.logo-right-text{ top: 40px; } 
@@ -165,33 +165,33 @@ h1.stunning-text-title{ font-family: Oswald; }
 div.navigation-wrapper{ font-family: Oswald; } 
 .portfolio-title a{ border-color: #252525; } 
 .portfolio-title a:hover{ border-color: #006633; } 
-ul.gdl-accordion li.active .accordion-title, ul.gdl-toggle-box li.active .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/accordion-title-active.png); } 
-ul.gdl-accordion li .accordion-title, ul.gdl-toggle-box li .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/accordion-title.png); } 
-div.gdl-carousel-testimonial .testimonial-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-quote.png); } 
-div.testimonial-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-left.png); } 
-div.testimonial-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/testimonial-right.png); } 
-.port-nav a{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/port-nav.png) no-repeat; } 
-.port-nav-wrapper .port-nav{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/port-nav.png) no-repeat; } 
-div.personnal-widget-prev, div.food-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnal-widget-left.png); } 
-div.personnal-widget-next, div.food-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnal-widget-right.png); } 
-div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/search-button.png) no-repeat center; } 
-div.food-carousel-wrapper .food-nav{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/food-nav.png); } 
-div.custom-sidebar ul.opening-hours-list li span.time{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/opening-hours-time.png); } 
-div.custom-sidebar ul.opening-hours-list li span.close{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/opening-hours-close.png); } 
-div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/li-arrow.png) no-repeat 0px 14px; } 
-div.personnal-widget-item .personnal-widget-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/personnel-quote.png); } 
-div.blog-author{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/author.png) no-repeat 0px 1px; } 
-div.blog-date-wrapper, div.recent-post-widget-date{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/date.png) no-repeat 0px 1px; } 
-div.blog-comment, div.recent-post-widget-comment{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/comment.png) no-repeat 0px 3px; } 
-div.blog-tag{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/dark/tag.png) no-repeat 0px 2px; } 
-div.gdl-twitter-wrapper{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/twitter-bottom-head.png) 0 center no-repeat; } 
-div.gdl-twitter-navigation .prev, div.gdl-twitter-navigation .next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/twitter-bottom-nav.png); } 
-div.footer-wrapper div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/li-arrow.png) no-repeat 0px 14px; } 
-div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/search-button.png) no-repeat center; } 
-div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/personnal-widget-left.png); } 
-div.footer-wrapper div.personnal-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/personnal-widget-right.png); } 
-.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/carousel-nav-left.png) no-repeat; } 
-.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://cronies.com/wp-content/themes/delicieux_v1-04/images/icon/light/carousel-nav-right.png) no-repeat; } 
+ul.gdl-accordion li.active .accordion-title, ul.gdl-toggle-box li.active .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/accordion-title-active.png); } 
+ul.gdl-accordion li .accordion-title, ul.gdl-toggle-box li .toggle-box-title{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/accordion-title.png); } 
+div.gdl-carousel-testimonial .testimonial-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/testimonial-quote.png); } 
+div.testimonial-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/testimonial-left.png); } 
+div.testimonial-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/testimonial-right.png); } 
+.port-nav a{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/port-nav.png) no-repeat; } 
+.port-nav-wrapper .port-nav{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/port-nav.png) no-repeat; } 
+div.personnal-widget-prev, div.food-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/personnal-widget-left.png); } 
+div.personnal-widget-next, div.food-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/personnal-widget-right.png); } 
+div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/search-button.png) no-repeat center; } 
+div.food-carousel-wrapper .food-nav{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/food-nav.png); } 
+div.custom-sidebar ul.opening-hours-list li span.time{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/opening-hours-time.png); } 
+div.custom-sidebar ul.opening-hours-list li span.close{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/opening-hours-close.png); } 
+div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/li-arrow.png) no-repeat 0px 14px; } 
+div.personnal-widget-item .personnal-widget-content{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/personnel-quote.png); } 
+div.blog-author{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/author.png) no-repeat 0px 1px; } 
+div.blog-date-wrapper, div.recent-post-widget-date{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/date.png) no-repeat 0px 1px; } 
+div.blog-comment, div.recent-post-widget-comment{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/comment.png) no-repeat 0px 3px; } 
+div.blog-tag{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/dark/tag.png) no-repeat 0px 2px; } 
+div.gdl-twitter-wrapper{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/twitter-bottom-head.png) 0 center no-repeat; } 
+div.gdl-twitter-navigation .prev, div.gdl-twitter-navigation .next{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/twitter-bottom-nav.png); } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/li-arrow.png) no-repeat 0px 14px; } 
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/search-button.png) no-repeat center; } 
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/personnal-widget-left.png); } 
+div.footer-wrapper div.personnal-widget-next{ background-image: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/personnal-widget-right.png); } 
+.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/carousel-nav-left.png) no-repeat; } 
+.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://cronies.com/wp-content/themes/delicieux-v1-06/images/icon/light/carousel-nav-right.png) no-repeat; } 
 div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.sidebar-wrapper #search-text input[type="text"], div.sidebar-wrapper .contact-widget input, div.custom-sidebar .contact-widget textarea, div.comment-wrapper input[type="text"], div.comment-wrapper input[type="password"], div.comment-wrapper textarea{ color: #888888; background-color: #ffffff; border-color: #e0e0e0; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f5f5f5 -5px -5px 0px 0px, #f5f5f5 5px 5px 0px 0px, #f5f5f5 5px 0px 0px 0px, #f5f5f5 0px 5px 0px 0px, #f5f5f5 5px -5px 0px 0px, #f5f5f5 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f5f5f5 -5px -5px 0px 0px, #f5f5f5 5px 5px 0px 0px, #f5f5f5 5px 0px 0px 0px, #f5f5f5 0px 5px 0px 0px, #f5f5f5 5px -5px 0px 0px, #f5f5f5 -5px 5px 0px 0px ; } 
 .blog-media-wrapper, .portfolio-media-wrapper, .food-media-wrapper, .gdl-button, .gdl-gallery-image,button, input[type="submit"], input[type="reset"], input[type="button"]{ -moz-box-shadow: 0px 0px 6px #bbbbbb; -webkit-box-shadow: 0px 0px 6px #bbbbbb; box-shadow: 0px 0px 6px #bbbbbb; } 
 div.gdl-navigation-wrapper{ background: url("images/default-header-bg.jpg") center 0 no-repeat; } 
